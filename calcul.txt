@@ -36,7 +36,7 @@ int main() {
 		cout << "Ответ: остаток равен " << ost;
 	}
 
-
+//psfpdlfpdlpflpdflpdlpfdfldfplfpdlf
 
 	int _; cin >> _;
 	return 0;
